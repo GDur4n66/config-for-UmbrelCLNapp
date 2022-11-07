@@ -1,0 +1,40 @@
+# [General options]
+log-file=/data/.lightning/log.txt
+
+
+# [Bitcoin control options]
+
+
+# [Lightning daemon options]
+
+
+# [Lightning node customization options]
+alias=Blossom | CLN
+
+# milli satoshi
+fee-base=0
+# ppm
+fee-per-satoshi=0
+
+
+
+# [Lightning channel and HTLC options]
+# large-channels
+# funding-confirms=2
+
+
+# [Payment control options]
+disable-mpp
+
+
+# [Networking options]
+
+
+# [Lightning Plugins]
+
+
+# [Experimental Options]
+experimental-onion-messages
+experimental-offers
+# experimental-dual-fund
+
