@@ -1,5 +1,5 @@
 # [General options]
-log-file=/data/.lightning/log.txt
+# log-file=/data/.lightning/log.txt
 
 
 # [Bitcoin control options]
