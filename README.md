@@ -7,6 +7,9 @@ Umbrel Core-lightning用のconfigファイル
 configを編集したらアプリ再起動が必要。<br>
 cd ~/umbrel/script; ./app restart core-lightning 
 
+configに何を書くのか知りたいなら
+https://lightning.readthedocs.io/lightningd-config.5.html
+
 CLNのログを見るには<br>
 docker logs core-lightning_lightningd_1
 
